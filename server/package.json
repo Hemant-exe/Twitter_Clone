@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "",
   "license": "ISC",
@@ -18,5 +19,8 @@
     "ethers": "^5.7.2",
     "hardhat": "^2.22.7",
     "undefined": "^0.1.0"
+    
+
+    
   }
 }

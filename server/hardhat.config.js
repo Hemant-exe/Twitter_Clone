@@ -5,8 +5,8 @@ module.exports ={
   
   solidity: "0.8.24",
   networks: {
-    rinkeby: {
-      url: process.env.ALCHEMY_RINKEBY_URL,
+    sepolia: {
+      url: process.env.ALCHEMY_SEPOLIA_URL,
       accounts: [process.env.ACCOUNT_PRIVATE_KEY],
     }
   }
